@@ -1,13 +1,13 @@
 ![Masterhead](https://user-images.githubusercontent.com/108489064/219320527-c2f76fe7-8ffb-4e0c-a244-f10ba4e47d83.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-ydv&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-ydv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m passionate about learning **New Technologies**
 
 - 📫 How to reach me **ymayank832@gmail.com**
 
